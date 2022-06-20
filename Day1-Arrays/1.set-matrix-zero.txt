@@ -25,5 +25,5 @@ public:
     }
 };
 
-TC: 2O(NXM)
+TC: O(NXM) + O(NXM)
 SC: O(1)

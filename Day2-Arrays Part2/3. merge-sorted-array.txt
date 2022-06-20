@@ -1,0 +1,5 @@
+a1[], size=n1
+a2[], size=n2
+
+create an array a3[n1+n2]
+place elements on a1 and a2 in it and then sort

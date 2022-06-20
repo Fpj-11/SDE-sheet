@@ -1,0 +1,4 @@
+sort intervals if not sorted
+Start for begining. See if any interval is merging with it.
+If yes, then take first element from first interval and take lastelement from next interval
+Store it in a data structure
